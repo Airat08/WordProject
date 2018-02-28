@@ -10,6 +10,7 @@ namespace WordProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
