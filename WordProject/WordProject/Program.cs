@@ -11,7 +11,7 @@ namespace WordProject
         static void Main(string[] args)
         {
             Console.WriteLine();
-
+            Console.WriteLine("Hello my name is Denis");
         }
     }
 }
