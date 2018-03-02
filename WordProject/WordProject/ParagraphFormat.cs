@@ -75,7 +75,6 @@ namespace WordProject
             if (!paragraphFormat.SpaceBefore.Equals(defaultParagraphFormat.SpaceBefore)) list.Add(57);
             if (!paragraphFormat.SpaceBeforeAuto.Equals(defaultParagraphFormat.SpaceBeforeAuto)) list.Add(58);
             if (!paragraphFormat.TextboxTightWrap.Equals(defaultParagraphFormat.TextboxTightWrap)) list.Add(59);
-
             return list;
         }
 
